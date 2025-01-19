@@ -1,9 +1,9 @@
 # UPUTE:
 
-Preuzeti proj.zip datoteku
+Preuzeti i raspakirati proj.zip datoteku
 
-Raspakirati i otvoriti proj.materials direktorij
+Otvoriti proj.materials direktorij
 
-U release direktoriju pronaći play.html datoteku
+Otvoriti release direktorij
 
 Pokrenuti play.html datoteku
